@@ -1,0 +1,4 @@
+logo-01.png       = konveksibamboo.png
+item-cart-01.jpg  = combed30s.jpg
+item-cart-02.jpg  = combed24s.jpg
+item-cart-03.jpg  = pe30s.jpg
